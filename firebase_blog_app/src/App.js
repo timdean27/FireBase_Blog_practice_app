@@ -11,7 +11,7 @@ import AddEditBlog from './pages/AddEditBlog';
 import NotFound from './pages/NotFound';
 import About from './pages/About';
 import Header from './components/Header';
-//Load Dev
+
 function App() {
   const [active , setActive] = useState("home")
   return (
